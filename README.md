@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello There 👋, I'm Sanjeewa Lakmal</h1>
 <h3 align="center">A Tech Enthusiast from Colombo</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/9vie.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeewa001&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeewa001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zanjeewax" target="blank"><img src="https://img.shields.io/twitter/follow/zanjeewax?logo=twitter&style=for-the-badge" alt="zanjeewax" /></a> </p>
